@@ -34,3 +34,6 @@ out/
 
 # Minecraft development runtime
 run/
+
+# Locally supplied mod dependencies
+libs/
