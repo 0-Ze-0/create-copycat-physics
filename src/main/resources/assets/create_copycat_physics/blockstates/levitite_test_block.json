@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_copycat_physics:block/levitite_test_block"
+    }
+  }
+}

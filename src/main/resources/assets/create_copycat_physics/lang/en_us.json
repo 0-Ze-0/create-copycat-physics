@@ -1,5 +1,6 @@
 {
   "itemGroup.create_copycat_physics": "Create: Copycat Physics",
+  "block.create_copycat_physics.levitite_test_block": "Levitite Test Block",
 
   "create_copycat_physics.configuration.title": "Create: Copycat Physics Configs",
   "create_copycat_physics.configuration.section.create_copycat_physics.common.toml": "Common",

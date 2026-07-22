@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "ambientocclusion": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "create_copycat_physics:block/levitite_test_block"
+  }
+}
