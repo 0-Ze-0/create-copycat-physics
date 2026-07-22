@@ -31,6 +31,7 @@ Create: Copycat Physics expands the range of functional Copycats+ blocks by intr
 - Windmill Sail
 - Symmetric Windmill Sail
 - Additional Copycats+ shapes over time
+- Super Levitite (10x Strength Levitite)
 
 ---
 
