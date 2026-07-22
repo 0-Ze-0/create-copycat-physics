@@ -1,0 +1,7 @@
+{
+  "itemGroup.create_copycat_physics": "Create: Copycat Physics",
+
+  "create_copycat_physics.configuration.title": "Create: Copycat Physics Configs",
+  "create_copycat_physics.configuration.section.create_copycat_physics.common.toml": "Common",
+  "create_copycat_physics.configuration.section.create_copycat_physics.common.toml.title": "Create: Copycat Physics"
+}
