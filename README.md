@@ -1,6 +1,6 @@
 # Create: Copycat Physics
 
-Physical-property variants for Create: Copycats+, designed for Create: Aeronautics.
+Physical-property variants for Create: Copycats+, with a focus on Create: Aeronautics compatibility.
 
 Create: Copycat Physics expands the range of functional Copycats+ blocks by introducing new physical behaviours such as floating, sticky, slippery, bouncy, and more, allowing builders to create more practical and aesthetically pleasing airships and contraptions.
 
