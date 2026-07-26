@@ -7,6 +7,7 @@ Create: Copycat Physics expands the range of functional Copycats+ blocks by intr
 ---
 
 ## Screenshots
+![Levitite Copycat Beam](./SampleImage.png)
 
 ## Planned Features
 
