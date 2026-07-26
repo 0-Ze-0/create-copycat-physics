@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x,waterlogged=false": {
+      "model": "minecraft:block/air"
+    },
+    "axis=x,waterlogged=true": {
+      "model": "minecraft:block/air"
+    },
+    "axis=y,waterlogged=false": {
+      "model": "minecraft:block/air"
+    },
+    "axis=y,waterlogged=true": {
+      "model": "minecraft:block/air"
+    },
+    "axis=z,waterlogged=false": {
+      "model": "minecraft:block/air"
+    },
+    "axis=z,waterlogged=true": {
+      "model": "minecraft:block/air"
+    }
+  }
+}

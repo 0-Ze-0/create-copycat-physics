@@ -7,8 +7,6 @@ Create: Copycat Physics expands the range of functional Copycats+ blocks by intr
 ---
 
 ## Screenshots
-<img width="1163" height="1163" alt="SampleImage" src="https://github.com/user-attachments/assets/d0e06be3-4334-4720-9405-8ba1d702d4f1" />
-
 
 ## Planned Features
 
