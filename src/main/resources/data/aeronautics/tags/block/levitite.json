@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "create_copycat_physics:levitite_copycat_beam"
+    "create_copycat_physics:levitite_copycat_beam",
+    "create_copycat_physics:levitite_copycat_board"
   ]
 }
