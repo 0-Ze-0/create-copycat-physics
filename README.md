@@ -7,8 +7,7 @@ Create: Copycat Physics expands the range of functional Copycats+ blocks by intr
 ---
 
 ## Screenshots
-
-*(Coming soon)*
+![](A:\Minecraft Stuff 2024\CustomModding\NeoForge\1.21.1\Neoforge 21.1.235\create-copycat-physics\SampleImage.png)
 
 ## Planned Features
 
