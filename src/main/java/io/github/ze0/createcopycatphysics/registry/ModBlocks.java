@@ -1,7 +1,7 @@
 package io.github.ze0.createcopycatphysics.registry;
 
 import com.copycatsplus.copycats.CCBuilderTransformers;
-import io.github.ze0.createcopycatphysics.content.block.LevititeCopycatBeamBlock;
+import io.github.ze0.createcopycatphysics.content.beam.LevititeCopycatBeamBlock;
 import com.copycatsplus.copycats.content.copycat.beam.CopycatBeamModelCore;
 import com.copycatsplus.copycats.foundation.copycat.model.CopycatModelCore;
 import com.simibubi.create.foundation.data.CreateRegistrate;

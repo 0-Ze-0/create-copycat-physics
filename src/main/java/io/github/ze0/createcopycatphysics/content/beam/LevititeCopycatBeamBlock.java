@@ -1,4 +1,4 @@
-package io.github.ze0.createcopycatphysics.content.block;
+package io.github.ze0.createcopycatphysics.content.beam;
 
 import com.copycatsplus.copycats.content.copycat.beam.CopycatBeamBlock;
 import com.copycatsplus.copycats.foundation.copycat.CCCopycatBlockEntity;
